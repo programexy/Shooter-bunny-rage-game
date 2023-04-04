@@ -13,3 +13,8 @@ The insturctions are:
 3. All levels are possible
 4. Total of nine levels will be done
 5. Have fun!
+
+
+### UPDATE
+The link has been changed:
+https://shooter-bunny-rage-game.orukami.repl.co/
